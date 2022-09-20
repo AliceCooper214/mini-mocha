@@ -1,0 +1,15 @@
+{
+  "name": "mini-mocha",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "node mocha/index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "directories": {
+    "test": "test"
+  },
+  "description": ""
+}
